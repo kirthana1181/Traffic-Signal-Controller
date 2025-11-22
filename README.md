@@ -1,6 +1,6 @@
 # Overview
 A Traffic Signal Controller is a digital system that automates the switching of traffic lights (Red, Yellow, Green) at road intersections using an FSM (Finite State Machine) model.
-**In this Personal Project, I created a simple simulation based on behavioral and RTL-level modelling of the FSM-traffic signal controller, as shown in the Testbench and Results File. ** Here's an overview of the functionality and description of the implementation.**
+**In this Personal Project, I created a simple simulation based on behavioral and RTL-level modelling of the FSM-traffic signal controller, as shown in the Testbench and Results File. Here's an overview of the functionality and description of the implementation.**
 # 1. Objective of the FSM
 The FSM here controls traffic signals (Red, Yellow, Green) for North-South (NS) and East-West (EW) directions. It adapts based on pedestrian inputs (ped_NS and ped_EW) using digital logic design principles.
 # 2. FSM Structure
